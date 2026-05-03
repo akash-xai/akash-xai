@@ -1,5 +1,7 @@
+<img width="1000" height="300" alt="git" src="https://github.com/user-attachments/assets/186ac96c-fcaf-4edc-801e-1847c328b9dd" />
 <div align="center">
-  <img src="https://brunopixels.tumblr.com/image/165491246267" width="480" alt="coding gif"/>
+  <img width="1000" height="300" alt="git" src="https://github.com/user-attachments/assets/d4de88aa-f877-4d2e-8978-21e2f912ad26" />
+
 </div>
 
 # 💫 About Me:
@@ -16,5 +18,4 @@
 ![](https://streak-stats.demolab.com/?user=akash-xai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akash-xai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=akash-xai&icon=0&color=0)](https://visitcount.itsvg.in)
+
