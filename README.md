@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://brunopixels.tumblr.com/image/165491246267" width="480" alt="coding gif"/>
 </div>
 
 # 💫 About Me:
